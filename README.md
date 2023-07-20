@@ -1,3 +1,3 @@
-# legoadam0223
+# About this site:
 
-This is a test!
+This website originated as an extra credit project for my Programming Language Concepts class at GSU
